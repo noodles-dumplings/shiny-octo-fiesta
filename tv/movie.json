@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "name": "大话西游之大圣娶亲",
+      "url": "https://raw.fastgit.org/noodles-dumplings/FreeD/master/tv/movie/dashengquqin.m3u8",
+      "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.webp",
+      "parse": false
+    },
+    {
+      "name": "喜剧之王",
+      "url": "https://raw.fastgit.org/noodles-dumplings/FreeD/master/tv/movie/xijuzhiwang.m3u8",
+      "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2579932167.webp",
+      "parse": false
+    },
+    {
+      "name": "无间道1",
+      "url": "https://raw.fastgit.org/noodles-dumplings/FreeD/master/tv/movie/wujiandao1.m3u8",
+      "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564556863.webp",
+      "parse": false
+    },
+    {
+      "name": "无间道2",
+      "url": "https://raw.fastgit.org/noodles-dumplings/FreeD/master/tv/movie/wujiandao2.m3u8",
+      "pic": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p958008320.webp",
+      "parse": false
+    },
+    {
+      "name": "无间道3终极无间",
+      "url": "https://raw.fastgit.org/noodles-dumplings/FreeD/master/tv/movie/wujiandao3zhongjiwujian.m3u8",
+      "pic": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2527603461.webp",
+      "parse": false
+    },
+    {
+      "name": "六人-泰坦尼克上的中国幸存者",
+      "url": "https://raw.fastgit.org/noodles-dumplings/FreeD/master/tv/movie/six.m3u8",
+      "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2635676317.webp",
+      "parse": false
+    },
+    {
+      "name": "黑客帝国 The Matrix",
+      "url": "https://raw.fastgit.org/noodles-dumplings/FreeD/master/tv/movie/heikediguo.The.Matrix.m3u8",
+      "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.webp",
+      "parse": false
+    }
+
+  ]
+}
