@@ -980,6 +980,17 @@
             }
         },
         {
+ 			"name": "阿里云盘(Web)",
+ 			"pic": "https://img.alicdn.com/imgextra/i3/O1CN01qcJZEf1VXF0KBzyNb_!!6000000002662-2-tps-384-92.png",
+ 			"keyDownPlay": false,
+            "keyUpPlay": false,
+            "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+            "ads": "",
+            "webUrl": "https://www.aliyundrive.com/drive",
+            "webOpen": true,
+            "click": true
+        },
+        {
             "name": "百度搜索(Web)",
             "pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg",
             "keyDownPlay": false,
