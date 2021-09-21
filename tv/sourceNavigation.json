@@ -34,7 +34,7 @@
     {
       "name": "海贼王",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
-      "webUrl": "https://cdn.jsdelivr.net/gh/noodles-dumplings/FreeD@master/tv/onepiece.txt",
+      "webUrl": "https://raw.fastgit.org/noodles-dumplings/shiny-octo-fiesta/master/tv/onepiece.txt",
       "type": "txt",
       "subTitle": "海贼王系列",
       "click": true,
@@ -49,7 +49,7 @@
     {
       "name": "精选电影",
       "pic": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.webp",
-      "webUrl": "https://raw.fastgit.org/noodles-dumplings/FreeD/master/tv/movie.json",
+      "webUrl": "https://raw.fastgit.org/noodles-dumplings/shiny-octo-fiesta/master/tv/movie.json",
       "type": "gitJson",
       "subTitle": "精选电影",
       "click": true,

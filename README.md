@@ -11,7 +11,7 @@ forked from [FreeDTV/FreeD](https://github.com/FreeDTV/FreeD)
 
 #### 安装教程
 
-下载地址：https://wwi.lanzoui.com/b025mpw7e <br>项目地址 `https://github.com/FreeDTV/FreeD`<br>
+下载地址：https://wwi.lanzoui.com/b025mpw7e <br>项目地址：https://github.com/FreeDTV/FreeD <br>
 
 TV端自定义接口示例（使用其它github加速方式亦可）：
 
